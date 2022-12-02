@@ -1,12 +1,1 @@
 ;aiu;
-
-[Story 2.0.MSI]
-Name = Story 2.0
-ProductVersion = 2.0.0
-URL = https://raw.githubusercontent.com/anhthoai93/installer/main/Hello%20World.msi
-Size = 1626112
-SHA256 = 4AEE2F94A68C6E083AED4B27EC933F7856ABB99F6D7F3C2554707794F6B5BF6D
-MD5 = f6c55d527e3818c11441b4e006f935dd
-ServerFileName = Hello World.msi
-RegistryKey = HKUD\Software\Andy Tran\Hello World\Version
-Version = 2.0.0
