@@ -2,12 +2,12 @@
 
 [Update]
 Name = Gateway API V3
-ProductVersion = 5.0.0
+ProductVersion = 6.0.0
 URL = https://raw.githubusercontent.com/anhthoai93/installer/main/Gateway%20API.msi
-Size = 1618432
-SHA256 = 50D92FA2F3B82DD8F3326F69C12AB3C3F91B672376F9E056DC2F2354AE2983DF
-MD5 = 6bffdda2b2e2288b624d96ed06dee403
+Size = 1615872
+SHA256 = F7BC45B1C2122E6ED2550334726311AC72ECE462C5EB05604B41775ECECE15A3
+MD5 = 80ebcf771247cae79a8b7a2a9d22dc57
 ServerFileName = Gateway API.msi
 Flags = Critical|Advertises
 RegistryKey = HKUD\Software\Andy\Gateway API\Version
-Version = 5.0.0
+Version = 6.0.0
