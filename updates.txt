@@ -1,1 +1,13 @@
 ;aiu;
+
+[Update]
+Name = Gateway API V2
+ProductVersion = 2.0.0
+URL = https://raw.githubusercontent.com/anhthoai93/installer/main/Gateway%20API.msi
+Size = 1615360
+SHA256 = 2E4317E2B4834F2076D27E907F85EA979966E6C911B7783E1CD7375B24034577
+MD5 = 53cad6851c787a98147ae48bc5af064c
+ServerFileName = Gateway API.msi
+Flags = Critical|Advertises
+RegistryKey = HKUD\Software\Andy\Gateway API\Version
+Version = 2.0.0
