@@ -1,13 +1,1 @@
 ;aiu;
-
-[Update]
-Name = Gateway V2
-ProductVersion = 2.0.0
-URL = https://raw.githubusercontent.com/anhthoai93/installer/main/Gateway.msi
-Size = 1625088
-SHA256 = CA103D0E4E76D8B3963C89B17354DF34959F2608B89464B3750747D8F3FF1D2B
-MD5 = d82cbf158b58040ad479aaf5b45a8b49
-ServerFileName = Gateway.msi
-Flags = Advertises
-RegistryKey = HKUD\Software\Andy\Gateway\Version
-Version = 2.0.0
