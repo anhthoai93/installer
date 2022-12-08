@@ -4,9 +4,9 @@
 Name = AdvaPACS Gateway Local
 ProductVersion = 2.0.0
 URL = https://raw.githubusercontent.com/anhthoai93/installer/main/AdvaPACS%20Gateway%20Local.msi
-Size = 89176576
-SHA256 = D1055A433F8F5A452E52364CFC6FA4DB6915558603206E5C77246629074DF0DF
-MD5 = 24b217de217d60280f6dfaa8c16de6c9
+Size = 89176064
+SHA256 = 3AF52505B0C2D96DBD9C80B79C229560F40AE8C0E73D3C44551D946E3658FB27
+MD5 = 6df34789b02d412fa58b3fe7045c9237
 ServerFileName = AdvaPACS Gateway Local.msi
 RegistryKey = HKUD\Software\Advapacs\AdvaPACS Gateway Local\Version
 Version = 2.0.0
