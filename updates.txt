@@ -1,23 +1,12 @@
 ;aiu;
 
-[ADVAPACS GATEAY LOCAL V3]
-Name = AdvaPACS Gateway Local V3
-ProductVersion = 3.0.0
-URL = https://raw.githubusercontent.com/anhthoai93/installer/master/AdvaPACS%20Gateway%20Local.msi
-Size = 89176576
-SHA256 = 44B7AA1EA09126016E6C0748ADFAF4787FFD08A3BBA276AA819CBCF128B3C501
-MD5 = c48496aeab816bd4053edc8d81cf97ec
-ServerFileName = AdvaPACS Gateway Local.msi
-RegistryKey = HKUD\Software\Advapacs\AdvaPACS Gateway Local\Version
-Version = 3.0.0
-
-[AdvaPACS GATEWAY LOCAL V2]
+[GatewayV1]
 Name = AdvaPACS Gateway Local
 ProductVersion = 2.0.0
-URL = https://raw.githubusercontent.com/anhthoai93/installer/master/AdvaPACS%20Gateway%20Local.msi
+URL = https://raw.githubusercontent.com/anhthoai93/installer/main/AdvaPACS%20Gateway%20Local.msi
 Size = 89176576
-SHA256 = 44B7AA1EA09126016E6C0748ADFAF4787FFD08A3BBA276AA819CBCF128B3C501
-MD5 = c48496aeab816bd4053edc8d81cf97ec
+SHA256 = D1055A433F8F5A452E52364CFC6FA4DB6915558603206E5C77246629074DF0DF
+MD5 = 24b217de217d60280f6dfaa8c16de6c9
 ServerFileName = AdvaPACS Gateway Local.msi
 RegistryKey = HKUD\Software\Advapacs\AdvaPACS Gateway Local\Version
 Version = 2.0.0
